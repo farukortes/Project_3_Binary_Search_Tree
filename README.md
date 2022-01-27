@@ -1,2 +1,8 @@
-# Project_3_Binary_Search_Tree
-Veri Yapıları ve Algoritmalar Modülü Kapsamında Hazırlanan Binary Search Tree Projesi
+# Binary Search Tree Problem
+<!-- Veri Yapıları ve Algoritmalar Modülü Kapsamında Hazırlanan Binary Search Tree Projesi-->
+
+## Proje 3
+
+**[7, 5, 1, 8, 3, 6, 0, 9, 4, 2]** dizisinin Binary-Search-Tree aşamalarını yazınız.
+
+Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
